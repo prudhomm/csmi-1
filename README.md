@@ -1,1 +1,2 @@
-# csmi-1
+Welcome to CSMI Project Course
+
